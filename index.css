@@ -1,0 +1,22 @@
+img.screenshotimg {
+    width: 20vw;
+    margin-top: 2vw;
+    margin-left: -10vw;
+    position: absolute;
+}
+
+a.birthday {
+    display: flex;
+    margin-top: 16vw;
+}
+
+.birthdayscreenshot {
+    width: 20vw;
+    margin-top: 2vw;
+    margin-left: 0vw;
+    position: absolute;
+}
+
+.hrb {
+    margin-top: 31vw;
+}
